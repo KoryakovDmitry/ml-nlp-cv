@@ -1,0 +1,8 @@
+jupyter==1.0.0
+folium==0.17.0
+nltk==3.9.1
+gensim==4.3.3
+bokeh==3.6.0
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
